@@ -50,7 +50,7 @@ This repository contains some of my favorite problems in LeetCode.
 
 | Problem Name and No.      | Topic         |  
 | ------------- |:-------------:|  
-| [33. Search in Rotated Sorted Array](../blob/master/Top_100_Liked_Questions/33.py)     | Binary-Search |  
+| [33. Search in Rotated Sorted Array](../master/Top_100_Liked_Questions/33.py)     | Binary-Search |  
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |  
 
