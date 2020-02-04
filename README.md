@@ -11,8 +11,11 @@ This repository contains some of my favorite problems in LeetCode.
 | Problem No. and Name     | Topic         |  
 | ------------- |:-------------:|  
 | [1. Two Sum](../master/Top_Interview_Questions/1.py)     | Hash-Map |  
+| [136. Single Number](../master/Top_Interview_Questions/136.py)     | Hash-Set |
 | [20. Valid Parentheses](../master/Top_Interview_Questions/20.py)     | Stack |  
+| [155. Min Stack](../master/Top_Interview_Questions/155.py)     | Stack | 
 | [21. Merge Two Sorted Lists](../master/Top_Interview_Questions/21.py)     | Linked-List |  
+| [141. Linked List Cycle](../master/Top_Interview_Questions/141.py)     | Linked-List | 
 | [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming |  
 | [70. Climbing Stairs](../master/Top_Interview_Questions/70.py)     | Dynamic Programming |   
 | [118. Pascal's Triangle](../master/Top_Interview_Questions/118.py)     | Dynamic Programming |
@@ -20,9 +23,8 @@ This repository contains some of my favorite problems in LeetCode.
 | [101. Symmetric Tree](../master/Top_Interview_Questions/101.py)     | Tree |  
 | [104. Maximum Depth of Binary Tree](../master/Top_Interview_Questions/104.py)     | Tree |   
 | [108. Convert Sorted Array to Binary Search Tree](../master/Top_Interview_Questions/108.py)     | Tree |
-| [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming |
-| [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming | 
-| [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming | 
+
+
 | [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming | 
 | [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming |    
 
