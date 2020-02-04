@@ -23,8 +23,6 @@ This repository contains some of my favorite problems in LeetCode.
 | [101. Symmetric Tree](../master/Top_Interview_Questions/101.py)     | Tree |  
 | [104. Maximum Depth of Binary Tree](../master/Top_Interview_Questions/104.py)     | Tree |   
 | [108. Convert Sorted Array to Binary Search Tree](../master/Top_Interview_Questions/108.py)     | Tree |
-
-
 | [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming | 
 | [53. Maximum Subarray](../master/Top_Interview_Questions/53.py)     | Dynamic Programming |    
 
