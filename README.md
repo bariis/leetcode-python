@@ -45,7 +45,7 @@ This repository contains some of my favorite problems in LeetCode.
 
 | Problem No. and Name      | Topic         |  
 | ------------- |:-------------:|  
-| [4. Median of Two Sorted Arrays](../master/Top_Interview_Questions/36.py)      | Binary-Search | 
+| [4. Median of Two Sorted Arrays](../master/Top_Interview_Questions/4.py)      | Binary-Search | 
 | [42. Trapping Rain Water](../master/Top_Interview_Questions/42.py)     | Two-Pointer |  
 | [297. Serialize and Deserialize Binary Tree](../master/Top_Interview_Questions/297.py)     | Tree |  
 | [124. Binary Tree Maximum Path Sum](../master/Top_Interview_Questions/124.py)     | Tree |   
@@ -80,7 +80,7 @@ This repository contains some of my favorite problems in LeetCode.
 
 | Problem Name and No.      | Topic         |  
 | ------------- |:-------------:|  
-| [4. Median of Two Sorted Arrays](../master/Top_Interview_Questions/36.py)      | Binary-Search | 
+| [4. Median of Two Sorted Arrays](../master/Top_Interview_Questions/4.py)      | Binary-Search | 
 | [42. Trapping Rain Water](../master/Top_Interview_Questions/42.py)     | Two-Pointer |  
 | [297. Serialize and Deserialize Binary Tree](../master/Top_Interview_Questions/297.py)     | Tree |  
 | [124. Binary Tree Maximum Path Sum](../master/Top_Interview_Questions/124.py)     | Tree |   
