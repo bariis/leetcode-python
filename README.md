@@ -39,6 +39,19 @@ This repository contains some of my favorite problems in LeetCode.
 | [19. Remove Nth Node From End of List](../master/Top_Interview_Questions/19.py)     | Linked-List | 
 | [33. Search in Rotated Sorted Array](../master/Top_100_Liked_Questions/33.py)     | Binary-Search |  
 | [36. Valid Sudoku](../master/Top_Interview_Questions/36.py)     | Array | 
+| [200. Number of Islands](../master/Top_Interview_Questions/200.py)     | Graph | 
+| [215. Kth Largest Element in an Array](../master/Top_Interview_Questions/215.py)     | Heap | 
+| [230. Kth Smallest Element in a BST](../master/Top_Interview_Questions/230.py)     | Tree | 
+| [236. Lowest Common Ancestor of a Binary Tree](../master/Top_Interview_Questions/236.py)     | Tree | 
+| [238. Product of Array Except Self](../master/Top_Interview_Questions/238.py)     | Memorization | 
+| [240. Search a 2D Matrix II](../master/Top_Interview_Questions/240.py)     | Search/Array | 
+| [279. Perfect Squares](../master/Top_Interview_Questions/279.py)     | Dynamic Programming | 
+| [287. Find the Duplicate Number](../master/Top_Interview_Questions/287.py)     | Two Pointer | 
+| [289. Game of Life](../master/Top_Interview_Questions/289.py)     | Graph | 
+| [300. Longest Increasing Subsequence](../master/Top_Interview_Questions/300.py)     | Dynamic Programming | 
+| [322. Coin Change](../master/Top_Interview_Questions/322.py)     | Dynamic Programming | 
+| [328. Odd Even Linked List](../master/Top_Interview_Questions/328.py)     | Linked-List | 
+| [347. Top K Frequent Elements](../master/Top_Interview_Questions/347.py)     | Heap | 
 
 
 ##  `Hard`: Top Interview Questions
