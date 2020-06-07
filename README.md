@@ -98,4 +98,13 @@ This repository contains some of my favorite problems in LeetCode.
 | [297. Serialize and Deserialize Binary Tree](../master/Top_Interview_Questions/297.py)     | Tree |  
 | [124. Binary Tree Maximum Path Sum](../master/Top_Interview_Questions/124.py)     | Tree |   
 
+------- 
+
+## Some problems that I liked solving...
+
+| Problem Name and No.      | Topic         |  
+| ------------- |:-------------:|  
+| [525. Contiguous Array](../master/My_Favorites/525.py)      | Hash-Map | 
+| [1008. Construct Binary Search Tree from Preorder Traversal](../master/My_Favorites/1008.py)      | Tree | 
+
 
