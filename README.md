@@ -106,5 +106,6 @@ This repository contains some of my favorite problems in LeetCode.
 | ------------- |:-------------:|  
 | [525. Contiguous Array](../master/My_Favorites/525.py)      | Hash-Map | 
 | [1008. Construct Binary Search Tree from Preorder Traversal](../master/My_Favorites/1008.py)      | Tree | 
+| [1007. Minimum Domino Rotations For Equal Row](../master/My_Favorites/1007.py)      | Array/Greedy | 
 
 
